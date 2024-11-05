@@ -1,8 +1,16 @@
 site_name: Unknown Forge
 site_url: https://torfmuer.github.io/Unknown-Forge/
 theme:
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - search.suggest
+  logo: docs/a-logo-for--unknown-forge---it-currently-is-a-webs.svg
   name: material
   palette:
     scheme: slate
     primary: deep orange
     accent: amber
+plugins:
+  - search
+

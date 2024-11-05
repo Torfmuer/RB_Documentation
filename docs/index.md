@@ -1,8 +1,8 @@
-# Welcome to MkDocs
+# Welcome to Unknown Forge
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This documentation is build with MKDocs. For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+<!-- ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
@@ -14,4 +14,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other files. -->
+    
+## What is Unknown Forge?
+Unknown Forge is a project build by SHOOT2HUNT for Unknown Munitions. UM Forge is the repository and documentation site for all projects related.
