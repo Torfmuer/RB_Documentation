@@ -1,6 +1,6 @@
 # Welcome to Unknown Forge
 
-This documentation is build with MKDocs. For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This documentation is built with MKDocs and Material for MKDocs. For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 <!-- ## Commands
 
@@ -18,3 +18,6 @@ This documentation is build with MKDocs. For full documentation visit [mkdocs.or
     
 ## What is Unknown Forge?
 Unknown Forge is a project build by SHOOT2HUNT for Unknown Munitions. UM Forge is the repository and documentation site for all projects related.
+
+## Unknown Forge Projects
+- [UM Rifle Builder](./riflebuilder/rb.md)
