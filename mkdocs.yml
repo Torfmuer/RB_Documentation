@@ -2,3 +2,6 @@ site_name: Unknown Forge
 site_url: https://torfmuer.github.io/Unknown-Forge/
 theme:
   name: material
+  palette:
+    scheme: deep orange
+    accent: amber
